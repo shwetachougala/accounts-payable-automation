@@ -1,0 +1,28 @@
+venv/
+__pycache__/
+*.pyc
+.env
+node_modules/
+dist/
+media/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Django
+db.sqlite3
+
+# React
+node_modules/
+dist/
+
+# IDE
+.vscode/
